@@ -1,0 +1,7 @@
+{
+  "name": "3d-dusche",
+  "version": "0.1.0",
+  "scripts": {
+    "build": "mkdir -p dist && cp -r public/. dist/ 2>/dev/null || true"
+  }
+}
